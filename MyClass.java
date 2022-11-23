@@ -4,4 +4,5 @@ public class MyClass {
     int age;
     ClassLoader classLoad;
     boolean isValidAge;
+    boolean isStupid;
 }
